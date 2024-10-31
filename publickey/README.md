@@ -1,0 +1,5 @@
+# publickey
+
+```sh
+go run .
+```
